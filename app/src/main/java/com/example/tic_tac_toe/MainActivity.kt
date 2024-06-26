@@ -312,6 +312,5 @@ fun Tic_Tac_Toe(){
         
         Spacer(Modifier.padding(30.dp))
         Text(winner, fontSize = 40.sp, fontWeight = FontWeight.Bold)
-
     }
 }
